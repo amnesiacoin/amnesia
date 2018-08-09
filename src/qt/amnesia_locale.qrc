@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/amnesia_bg.qm</file>
+        <file alias="ca">locale/amnesia_ca.qm</file>
+        <file alias="cs">locale/amnesia_cs.qm</file>
+        <file alias="da">locale/amnesia_da.qm</file>
+        <file alias="de">locale/amnesia_de.qm</file>
+        <file alias="en">locale/amnesia_en.qm</file>
+        <file alias="en_US">locale/amnesia_en_US.qm</file>
+        <file alias="es">locale/amnesia_es.qm</file>
+        <file alias="fi">locale/amnesia_fi.qm</file>
+        <file alias="fr_FR">locale/amnesia_fr_FR.qm</file>
+        <file alias="it">locale/amnesia_it.qm</file>
+        <file alias="ja">locale/amnesia_ja.qm</file>
+        <file alias="ko_KR">locale/amnesia_ko_KR.qm</file>
+        <file alias="nl">locale/amnesia_nl.qm</file>
+        <file alias="pl">locale/amnesia_pl.qm</file>
+        <file alias="pt">locale/amnesia_pt.qm</file>
+        <file alias="pt_BR">locale/amnesia_pt_BR.qm</file>
+        <file alias="ro_RO">locale/amnesia_ro_RO.qm</file>
+        <file alias="ru">locale/amnesia_ru.qm</file>
+        <file alias="sk">locale/amnesia_sk.qm</file>
+        <file alias="sv">locale/amnesia_sv.qm</file>
+        <file alias="tr">locale/amnesia_tr.qm</file>
+        <file alias="uk">locale/amnesia_uk.qm</file>
+        <file alias="zh_CN">locale/amnesia_zh_CN.qm</file>
+        <file alias="zh_TW">locale/amnesia_zh_TW.qm</file>
+    </qresource>
+</RCC>

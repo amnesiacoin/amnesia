@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Amnesia
+Comment=Amnesia P2P Cryptocurrency
+Exec=amnesia-qt %u
+Terminal=false
+Type=Application
+Icon=amnesia128
+MimeType=x-scheme-handler/amnesia;
+Categories=Office;Finance;
+Name[en_US]=amnesia-qt.desktop
